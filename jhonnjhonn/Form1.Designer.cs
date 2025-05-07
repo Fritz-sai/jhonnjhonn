@@ -50,6 +50,7 @@
             // 
             // panel3
             // 
+            panel3.BackColor = SystemColors.ActiveCaption;
             panel3.Controls.Add(btnclose);
             panel3.Controls.Add(btnregister);
             panel3.Controls.Add(btnlogin);
@@ -62,7 +63,7 @@
             panel3.Controls.Add(panel4);
             panel3.Location = new Point(480, 90);
             panel3.Name = "panel3";
-            panel3.Size = new Size(343, 454);
+            panel3.Size = new Size(340, 454);
             panel3.TabIndex = 6;
             // 
             // btnclose

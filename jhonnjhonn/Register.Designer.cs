@@ -60,6 +60,7 @@
             // 
             // panel3
             // 
+            panel3.BackColor = Color.LightGray;
             panel3.Controls.Add(label9);
             panel3.Controls.Add(label8);
             panel3.Controls.Add(label7);
@@ -276,7 +277,7 @@
             panel1.Controls.Add(panel2);
             panel1.Location = new Point(131, 76);
             panel1.Name = "panel1";
-            panel1.Size = new Size(730, 524);
+            panel1.Size = new Size(346, 527);
             panel1.TabIndex = 9;
             // 
             // label1
